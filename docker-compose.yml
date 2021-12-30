@@ -2,7 +2,7 @@ version: "3.4"
 
 services:
   grpc-api:
-    image: deephaven-examples/easy-crypto-grpc-api:latest
+    image: easy-crypto/easy-crypto-grpc-api:latest
     expose:
       - '8080'
     volumes:
