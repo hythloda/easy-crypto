@@ -55,8 +55,6 @@ Go to [http://localhost:10000/ide](http://localhost:10000/ide) to view the table
 Upon running the script in your Deephaven IDE, the `HistoricalCryptoTable` and `LiveCryptoTable` tables will be created.  
 
 
-![img](./crypto1.png)
-
 The result table includes the following columns:
 
 - **`Timestamp`:** The date and time that the coin value was updated.
