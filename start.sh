@@ -1,2 +1,2 @@
-docker build --target ec-grpc-api -t easy-crypto/ec-grpc-api .
+docker build --target ec-server -t easy-crypto/ec-server .
 docker-compose up
